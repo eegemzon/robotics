@@ -1,0 +1,1085 @@
+Opencv Version:  3.3.0
+Initializing motor pin setup...
+Setting up pwm for speed control
+Finished pin setup successfully
+Initializing camera
+Initializing LaneAndDirection...
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+dominant left:  []
+go left please
+--------------------
+line:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+dominant left:  []
+go left please
+--------------------
+line:  [178, 179, 229, 220, 0.803921568627451, mpf('38.796552098308169')]
+compare x2 to middle x screen: right x2:  229 , middleX:  128
+line:  []
+dominant right:  [178, 179, 229, 220, 0.803921568627451, mpf('38.796552098308169')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [178, 180, 230, 220, 0.7692307692307693, mpf('37.568592028827496')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [178, 180, 230, 220, 0.7692307692307693, mpf('37.568592028827496')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+dominant left:  []
+go left please
+--------------------
+line:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [178, 179, 230, 220, 0.7884615384615384, mpf('38.25442035251718')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [178, 179, 229, 220, 0.803921568627451, mpf('38.796552098308169')]
+compare x2 to middle x screen: right x2:  229 , middleX:  128
+line:  []
+dominant right:  [178, 179, 229, 220, 0.803921568627451, mpf('38.796552098308169')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [174, 181, 230, 222, 0.7321428571428571, mpf('36.209456817186052')]
+compare x2 to middle x screen: right x2:  230 , middleX:  128
+line:  []
+dominant right:  [174, 181, 230, 222, 0.7321428571428571, mpf('36.209456817186052')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [167, 180, 218, 220, 0.7843137254901961, mpf('38.107576877514859')]
+compare x2 to middle x screen: right x2:  218 , middleX:  128
+line:  []
+dominant right:  [167, 180, 218, 220, 0.7843137254901961, mpf('38.107576877514859')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [145, 182, 209, 217, 0.546875, mpf('28.673146489434995')]
+compare x2 to middle x screen: right x2:  209 , middleX:  128
+line:  []
+dominant right:  [145, 182, 209, 217, 0.546875, mpf('28.673146489434995')]
+dominant left:  []
+go left please
+--------------------
+line:  [141, 184, 208, 215, 0.4626865671641791, mpf('24.829346588149601')]
+compare x2 to middle x screen: right x2:  208 , middleX:  128
+line:  []
+dominant right:  [141, 184, 208, 215, 0.4626865671641791, mpf('24.829346588149601')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [114, 179, 165, 210, 0.6078431372549019, mpf('31.293038995920188')]
+compare x2 to middle x screen: right x2:  165 , middleX:  128
+line:  [175, 210, 245, 189, -0.3, mpf('16.699244233993621')]
+compare x1 to middle x screen: left x1:  175 , middleX:  128
+removing invalid left line
+dominant right:  [114, 179, 165, 210, 0.6078431372549019, mpf('31.293038995920188')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [167, 208, 243, 185, -0.3026315789473684, mpf('16.837472625676384')]
+compare x1 to middle x screen: left x1:  167 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [171, 207, 243, 185, -0.3055555555555556, mpf('16.990823291986164')]
+compare x1 to middle x screen: left x1:  171 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [185, 207, 236, 188, -0.37254901960784315, mpf('20.432828679398686')]
+compare x1 to middle x screen: left x1:  185 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [185, 207, 241, 186, -0.375, mpf('20.556045219583467')]
+compare x1 to middle x screen: left x1:  185 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [167, 208, 245, 185, -0.2948717948717949, mpf('16.429301451533401')]
+compare x1 to middle x screen: left x1:  167 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [116, 179, 183, 207, 0.417910447761194, mpf('22.680559607024918')]
+compare x2 to middle x screen: right x2:  183 , middleX:  128
+line:  []
+dominant right:  [116, 179, 183, 207, 0.417910447761194, mpf('22.680559607024918')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [179, 208, 244, 185, -0.35384615384615387, mpf('19.486129572465757')]
+compare x1 to middle x screen: left x1:  179 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [116, 179, 185, 207, 0.4057971014492754, mpf('22.087171603228349')]
+compare x2 to middle x screen: right x2:  185 , middleX:  128
+line:  []
+dominant right:  [116, 179, 185, 207, 0.4057971014492754, mpf('22.087171603228349')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [186, 207, 245, 185, -0.3728813559322034, mpf('20.449547610792582')]
+compare x1 to middle x screen: left x1:  186 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [172, 208, 245, 185, -0.3150684931506849, mpf('17.487997376148545')]
+compare x1 to middle x screen: left x1:  172 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [115, 179, 181, 207, 0.42424242424242425, mpf('22.988716802080639')]
+compare x2 to middle x screen: right x2:  181 , middleX:  128
+line:  [183, 207, 245, 185, -0.3548387096774194, mpf('19.536654938128386')]
+compare x1 to middle x screen: left x1:  183 , middleX:  128
+removing invalid left line
+dominant right:  [115, 179, 181, 207, 0.42424242424242425, mpf('22.988716802080639')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [186, 207, 245, 185, -0.3728813559322034, mpf('20.449547610792582')]
+compare x1 to middle x screen: left x1:  186 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [182, 207, 234, 189, -0.34615384615384615, mpf('19.093492000485611')]
+compare x1 to middle x screen: left x1:  182 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [117, 180, 180, 208, 0.4444444444444444, mpf('23.962488974578182')]
+compare x2 to middle x screen: right x2:  180 , middleX:  128
+line:  [182, 208, 243, 185, -0.3770491803278688, mpf('20.658910063307491')]
+compare x1 to middle x screen: left x1:  182 , middleX:  128
+removing invalid left line
+dominant right:  [117, 180, 180, 208, 0.4444444444444444, mpf('23.962488974578182')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [180, 208, 245, 185, -0.35384615384615387, mpf('19.486129572465757')]
+compare x1 to middle x screen: left x1:  180 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [186, 207, 244, 185, -0.3793103448275862, mpf('20.77225468204583')]
+compare x1 to middle x screen: left x1:  186 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [186, 207, 245, 185, -0.3728813559322034, mpf('20.449547610792582')]
+compare x1 to middle x screen: left x1:  186 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [169, 208, 241, 187, -0.2916666666666667, mpf('16.26020470831196')]
+compare x1 to middle x screen: left x1:  169 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [117, 180, 183, 208, 0.42424242424242425, mpf('22.988716802080639')]
+compare x2 to middle x screen: right x2:  183 , middleX:  128
+line:  []
+dominant right:  [117, 180, 183, 208, 0.42424242424242425, mpf('22.988716802080639')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [186, 207, 245, 186, -0.3559322033898305, mpf('19.592281891051528')]
+compare x1 to middle x screen: left x1:  186 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [183, 208, 244, 186, -0.36065573770491804, mpf('19.832129850218386')]
+compare x1 to middle x screen: left x1:  183 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [176, 209, 244, 186, -0.3382352941176471, mpf('18.687351505211165')]
+compare x1 to middle x screen: left x1:  176 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [116, 180, 175, 208, 0.4745762711864407, mpf('25.387906291095927')]
+compare x2 to middle x screen: right x2:  175 , middleX:  128
+line:  [165, 208, 245, 185, -0.2875, mpf('16.039943306049665')]
+compare x1 to middle x screen: left x1:  165 , middleX:  128
+removing invalid left line
+dominant right:  [116, 180, 175, 208, 0.4745762711864407, mpf('25.387906291095927')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [185, 207, 244, 186, -0.3559322033898305, mpf('19.592281891051528')]
+compare x1 to middle x screen: left x1:  185 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [182, 208, 245, 186, -0.3492063492063492, mpf('19.24952587268173')]
+compare x1 to middle x screen: left x1:  182 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [183, 208, 245, 186, -0.3548387096774194, mpf('19.536654938128386')]
+compare x1 to middle x screen: left x1:  183 , middleX:  128
+removing invalid left line
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [21, 229, 71, 179, -1.0, mpf('45.0')]
+compare x1 to middle x screen: left x1:  21 , middleX:  128
+dominant right:  []
+dominant left:  [21, 229, 71, 179, -1.0, mpf('45.0')]
+go right please
+--------------------
+line:  []
+line:  [9, 232, 72, 179, -0.8412698412698413, mpf('40.072890052350985')]
+compare x1 to middle x screen: left x1:  9 , middleX:  128
+dominant right:  []
+dominant left:  [9, 232, 72, 179, -0.8412698412698413, mpf('40.072890052350985')]
+go right please
+--------------------
+line:  []
+line:  [10, 231, 70, 183, -0.8, mpf('38.659808254090095')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 231, 70, 183, -0.8, mpf('38.659808254090095')]
+move forward please
+--------------------
+line:  []
+line:  [9, 231, 69, 182, -0.8166666666666667, mpf('39.237367113401547')]
+compare x1 to middle x screen: left x1:  9 , middleX:  128
+dominant right:  []
+dominant left:  [9, 231, 69, 182, -0.8166666666666667, mpf('39.237367113401547')]
+move forward please
+--------------------
+line:  []
+line:  [11, 230, 68, 183, -0.8245614035087719, mpf('39.507675442872561')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 230, 68, 183, -0.8245614035087719, mpf('39.507675442872561')]
+move forward please
+--------------------
+line:  []
+line:  [15, 230, 71, 181, -0.875, mpf('41.185925165709648')]
+compare x1 to middle x screen: left x1:  15 , middleX:  128
+dominant right:  []
+dominant left:  [15, 230, 71, 181, -0.875, mpf('41.185925165709648')]
+go right please
+--------------------
+line:  []
+line:  [15, 230, 71, 181, -0.875, mpf('41.185925165709648')]
+compare x1 to middle x screen: left x1:  15 , middleX:  128
+dominant right:  []
+dominant left:  [15, 230, 71, 181, -0.875, mpf('41.185925165709648')]
+go right please
+--------------------
+line:  []
+line:  [23, 212, 90, 179, -0.4925373134328358, mpf('26.22196677755446')]
+compare x1 to middle x screen: left x1:  23 , middleX:  128
+dominant right:  []
+dominant left:  [23, 212, 90, 179, -0.4925373134328358, mpf('26.22196677755446')]
+go right please
+--------------------
+line:  []
+line:  [9, 216, 84, 189, -0.36, mpf('19.798876354524932')]
+compare x1 to middle x screen: left x1:  9 , middleX:  128
+dominant right:  []
+dominant left:  [9, 216, 84, 189, -0.36, mpf('19.798876354524932')]
+go right please
+--------------------
+line:  []
+line:  [27, 211, 91, 179, -0.5, mpf('26.56505117707799')]
+compare x1 to middle x screen: left x1:  27 , middleX:  128
+dominant right:  []
+dominant left:  [27, 211, 91, 179, -0.5, mpf('26.56505117707799')]
+go right please
+--------------------
+line:  []
+line:  [11, 216, 87, 186, -0.39473684210526316, mpf('21.54097591853844')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 216, 87, 186, -0.39473684210526316, mpf('21.54097591853844')]
+go right please
+--------------------
+line:  []
+line:  [13, 231, 71, 181, -0.8620689655172413, mpf('40.763605200941164')]
+compare x1 to middle x screen: left x1:  13 , middleX:  128
+dominant right:  []
+dominant left:  [13, 231, 71, 181, -0.8620689655172413, mpf('40.763605200941164')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [7, 233, 70, 182, -0.8095238095238095, mpf('38.990994042505477')]
+compare x1 to middle x screen: left x1:  7 , middleX:  128
+dominant right:  []
+dominant left:  [7, 233, 70, 182, -0.8095238095238095, mpf('38.990994042505477')]
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [9, 231, 67, 184, -0.8103448275862069, mpf('39.019400475236552')]
+compare x1 to middle x screen: left x1:  9 , middleX:  128
+dominant right:  []
+dominant left:  [9, 231, 67, 184, -0.8103448275862069, mpf('39.019400475236552')]
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [7, 231, 71, 179, -0.8125, mpf('39.093858886229498')]
+compare x1 to middle x screen: left x1:  7 , middleX:  128
+dominant right:  []
+dominant left:  [7, 231, 71, 179, -0.8125, mpf('39.093858886229498')]
+go right please
+--------------------
+line:  []
+line:  [13, 214, 88, 182, -0.4266666666666667, mpf('23.106326858271576')]
+compare x1 to middle x screen: left x1:  13 , middleX:  128
+dominant right:  []
+dominant left:  [13, 214, 88, 182, -0.4266666666666667, mpf('23.106326858271576')]
+go right please
+--------------------
+line:  []
+line:  [14, 230, 71, 179, -0.8947368421052632, mpf('41.820169880135772')]
+compare x1 to middle x screen: left x1:  14 , middleX:  128
+dominant right:  []
+dominant left:  [14, 230, 71, 179, -0.8947368421052632, mpf('41.820169880135772')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [36, 235, 93, 184, -0.8947368421052632, mpf('41.820169880135772')]
+compare x1 to middle x screen: left x1:  36 , middleX:  128
+dominant right:  []
+dominant left:  [36, 235, 93, 184, -0.8947368421052632, mpf('41.820169880135772')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [59, 235, 120, 188, -0.7704918032786885, mpf('37.613956848732727')]
+compare x1 to middle x screen: left x1:  59 , middleX:  128
+dominant right:  []
+dominant left:  [59, 235, 120, 188, -0.7704918032786885, mpf('37.613956848732727')]
+go right please
+--------------------
+line:  []
+line:  [55, 225, 166, 181, -0.3963963963963964, mpf('21.623196127904638')]
+compare x1 to middle x screen: left x1:  55 , middleX:  128
+dominant right:  []
+dominant left:  [55, 225, 166, 181, -0.3963963963963964, mpf('21.623196127904638')]
+go right please
+--------------------
+line:  [14, 182, 68, 211, 0.5370370370370371, mpf('28.237445538167261')]
+compare x2 to middle x screen: right x2:  68 , middleX:  128
+removing invalid right line
+line:  [57, 217, 166, 180, -0.3394495412844037, mpf('18.749757630311116')]
+compare x1 to middle x screen: left x1:  57 , middleX:  128
+dominant right:  []
+dominant left:  [57, 217, 166, 180, -0.3394495412844037, mpf('18.749757630311116')]
+go right please
+--------------------
+line:  [20, 183, 83, 211, 0.4444444444444444, mpf('23.962488974578182')]
+compare x2 to middle x screen: right x2:  83 , middleX:  128
+removing invalid right line
+line:  [91, 211, 142, 185, -0.5098039215686274, mpf('27.01266534793854')]
+compare x1 to middle x screen: left x1:  91 , middleX:  128
+dominant right:  []
+dominant left:  [91, 211, 142, 185, -0.5098039215686274, mpf('27.01266534793854')]
+go right please
+--------------------
+line:  []
+line:  [55, 216, 167, 184, -0.2857142857142857, mpf('15.945395900922854')]
+compare x1 to middle x screen: left x1:  55 , middleX:  128
+dominant right:  []
+dominant left:  [55, 216, 167, 184, -0.2857142857142857, mpf('15.945395900922854')]
+go right please
+--------------------
+line:  [13, 179, 74, 211, 0.5245901639344263, mpf('27.681061568485262')]
+compare x2 to middle x screen: right x2:  74 , middleX:  128
+removing invalid right line
+line:  [56, 216, 167, 182, -0.3063063063063063, mpf('17.030156772887047')]
+compare x1 to middle x screen: left x1:  56 , middleX:  128
+dominant right:  []
+dominant left:  [56, 216, 167, 182, -0.3063063063063063, mpf('17.030156772887047')]
+go right please
+--------------------
+line:  []
+line:  [55, 216, 167, 182, -0.30357142857142855, mpf('16.88679112394404')]
+compare x1 to middle x screen: left x1:  55 , middleX:  128
+dominant right:  []
+dominant left:  [55, 216, 167, 182, -0.30357142857142855, mpf('16.88679112394404')]
+go right please
+--------------------
+line:  [20, 183, 80, 211, 0.4666666666666667, mpf('25.016893478100023')]
+compare x2 to middle x screen: right x2:  80 , middleX:  128
+removing invalid right line
+line:  [55, 216, 167, 184, -0.2857142857142857, mpf('15.945395900922854')]
+compare x1 to middle x screen: left x1:  55 , middleX:  128
+dominant right:  []
+dominant left:  [55, 216, 167, 184, -0.2857142857142857, mpf('15.945395900922854')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [57, 217, 128, 195, -0.30985915492957744, mpf('17.216073587790714')]
+compare x1 to middle x screen: left x1:  57 , middleX:  128
+dominant right:  []
+dominant left:  [57, 217, 128, 195, -0.30985915492957744, mpf('17.216073587790714')]
+go right please
+--------------------
+line:  []
+line:  [57, 217, 119, 198, -0.3064516129032258, mpf('17.037767795625633')]
+compare x1 to middle x screen: left x1:  57 , middleX:  128
+dominant right:  []
+dominant left:  [57, 217, 119, 198, -0.3064516129032258, mpf('17.037767795625633')]
+go right please
+--------------------
+line:  []
+line:  [58, 216, 168, 183, -0.3, mpf('16.699244233993621')]
+compare x1 to middle x screen: left x1:  58 , middleX:  128
+dominant right:  []
+dominant left:  [58, 216, 168, 183, -0.3, mpf('16.699244233993621')]
+go right please
+--------------------
+line:  [12, 179, 75, 211, 0.5079365079365079, mpf('26.927677851040499')]
+compare x2 to middle x screen: right x2:  75 , middleX:  128
+removing invalid right line
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [12, 179, 75, 211, 0.5079365079365079, mpf('26.927677851040499')]
+compare x2 to middle x screen: right x2:  75 , middleX:  128
+removing invalid right line
+line:  [58, 216, 168, 182, -0.3090909090909091, mpf('17.175903615746744')]
+compare x1 to middle x screen: left x1:  58 , middleX:  128
+dominant right:  []
+dominant left:  [58, 216, 168, 182, -0.3090909090909091, mpf('17.175903615746744')]
+go right please
+--------------------
+line:  [12, 179, 77, 211, 0.49230769230769234, mpf('26.211378017831528')]
+compare x2 to middle x screen: right x2:  77 , middleX:  128
+removing invalid right line
+line:  [56, 216, 119, 198, -0.2857142857142857, mpf('15.945395900922854')]
+compare x1 to middle x screen: left x1:  56 , middleX:  128
+dominant right:  []
+dominant left:  [56, 216, 119, 198, -0.2857142857142857, mpf('15.945395900922854')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [57, 217, 166, 184, -0.30275229357798167, mpf('16.843808551727427')]
+compare x1 to middle x screen: left x1:  57 , middleX:  128
+dominant right:  []
+dominant left:  [57, 217, 166, 184, -0.30275229357798167, mpf('16.843808551727427')]
+go right please
+--------------------
+line:  [12, 179, 75, 211, 0.5079365079365079, mpf('26.927677851040499')]
+compare x2 to middle x screen: right x2:  75 , middleX:  128
+removing invalid right line
+line:  [57, 217, 167, 183, -0.3090909090909091, mpf('17.175903615746744')]
+compare x1 to middle x screen: left x1:  57 , middleX:  128
+dominant right:  []
+dominant left:  [57, 217, 167, 183, -0.3090909090909091, mpf('17.175903615746744')]
+go right please
+--------------------
+line:  [21, 184, 82, 211, 0.4426229508196721, mpf('23.875280853927517')]
+compare x2 to middle x screen: right x2:  82 , middleX:  128
+removing invalid right line
+line:  [55, 216, 125, 196, -0.2857142857142857, mpf('15.945395900922854')]
+compare x1 to middle x screen: left x1:  55 , middleX:  128
+dominant right:  []
+dominant left:  [55, 216, 125, 196, -0.2857142857142857, mpf('15.945395900922854')]
+go right please
+--------------------
+line:  []
+line:  [56, 217, 127, 195, -0.30985915492957744, mpf('17.216073587790714')]
+compare x1 to middle x screen: left x1:  56 , middleX:  128
+dominant right:  []
+dominant left:  [56, 217, 127, 195, -0.30985915492957744, mpf('17.216073587790714')]
+go right please
+--------------------
+line:  []
+line:  [94, 211, 144, 185, -0.52, mpf('27.474431626277131')]
+compare x1 to middle x screen: left x1:  94 , middleX:  128
+dominant right:  []
+dominant left:  [94, 211, 144, 185, -0.52, mpf('27.474431626277131')]
+go right please
+--------------------
+line:  [13, 179, 75, 211, 0.5161290322580645, mpf('27.299572211332805')]
+compare x2 to middle x screen: right x2:  75 , middleX:  128
+removing invalid right line
+line:  [60, 216, 168, 181, -0.32407407407407407, mpf('17.956165152626738')]
+compare x1 to middle x screen: left x1:  60 , middleX:  128
+dominant right:  []
+dominant left:  [60, 216, 168, 181, -0.32407407407407407, mpf('17.956165152626738')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [92, 211, 145, 183, -0.5283018867924528, mpf('27.847578259788165')]
+compare x1 to middle x screen: left x1:  92 , middleX:  128
+dominant right:  []
+dominant left:  [92, 211, 145, 183, -0.5283018867924528, mpf('27.847578259788165')]
+go right please
+--------------------
+line:  [13, 180, 79, 211, 0.4696969696969697, mpf('25.159301916031655')]
+compare x2 to middle x screen: right x2:  79 , middleX:  128
+removing invalid right line
+line:  [56, 217, 167, 183, -0.3063063063063063, mpf('17.030156772887047')]
+compare x1 to middle x screen: left x1:  56 , middleX:  128
+dominant right:  []
+dominant left:  [56, 217, 167, 183, -0.3063063063063063, mpf('17.030156772887047')]
+go right please
+--------------------
+line:  [12, 179, 76, 211, 0.5, mpf('26.56505117707799')]
+compare x2 to middle x screen: right x2:  76 , middleX:  128
+removing invalid right line
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [19, 183, 82, 211, 0.4444444444444444, mpf('23.962488974578182')]
+compare x2 to middle x screen: right x2:  82 , middleX:  128
+removing invalid right line
+line:  [54, 216, 166, 182, -0.30357142857142855, mpf('16.88679112394404')]
+compare x1 to middle x screen: left x1:  54 , middleX:  128
+dominant right:  []
+dominant left:  [54, 216, 166, 182, -0.30357142857142855, mpf('16.88679112394404')]
+go right please
+--------------------
+line:  [12, 180, 72, 212, 0.5333333333333333, mpf('28.072486935852957')]
+compare x2 to middle x screen: right x2:  72 , middleX:  128
+removing invalid right line
+line:  [64, 214, 165, 183, -0.3069306930693069, mpf('17.062857173461396')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 214, 165, 183, -0.3069306930693069, mpf('17.062857173461396')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [53, 224, 116, 183, -0.6507936507936508, mpf('33.055822811553668')]
+compare x1 to middle x screen: left x1:  53 , middleX:  128
+dominant right:  []
+dominant left:  [53, 224, 116, 183, -0.6507936507936508, mpf('33.055822811553668')]
+go right please
+--------------------
+line:  []
+line:  [60, 224, 110, 179, -0.9, mpf('41.987212495816657')]
+compare x1 to middle x screen: left x1:  60 , middleX:  128
+dominant right:  []
+dominant left:  [60, 224, 110, 179, -0.9, mpf('41.987212495816657')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+Exiting Application
+move forward -- main thread
+forward
+go left -- main thread
+left
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+go left -- main thread
+left
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+move forward -- main thread
+forward
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+move forward -- main thread
+forward
+go right -- main thread
+right
+move forward -- main thread
+forward
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+Cleanup

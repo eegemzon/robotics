@@ -1,0 +1,5137 @@
+Opencv Version:  3.3.0
+Initializing motor pin setup...
+Setting up pwm for speed control
+Finished pin setup successfully
+Initializing camera
+Initializing LaneAndDirection...
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [220, 179, 249, 229, 1.7241379310344827, mpf('59.886266849017566')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [220, 179, 249, 229, 1.7241379310344827, mpf('59.886266849017566')]
+dominant left:  []
+move forward please
+--------------------
+line:  [213, 179, 250, 243, 1.7297297297297298, mpf('59.966719564004862')]
+compare x2 to middle x screen: right x2:  250 , middleX:  128
+line:  []
+dominant right:  [213, 179, 250, 243, 1.7297297297297298, mpf('59.966719564004862')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [219, 179, 249, 236, 1.9, mpf('62.241459398939973')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 236, 1.9, mpf('62.241459398939973')]
+dominant left:  []
+move forward please
+--------------------
+line:  [214, 179, 243, 234, 1.896551724137931, mpf('62.198541220065863')]
+compare x2 to middle x screen: right x2:  243 , middleX:  128
+line:  []
+dominant right:  [214, 179, 243, 234, 1.896551724137931, mpf('62.198541220065863')]
+dominant left:  []
+move forward please
+--------------------
+line:  [195, 180, 232, 253, 1.972972972972973, mpf('63.121860247901353')]
+compare x2 to middle x screen: right x2:  232 , middleX:  128
+line:  []
+dominant right:  [195, 180, 232, 253, 1.972972972972973, mpf('63.121860247901353')]
+dominant left:  []
+move forward please
+--------------------
+line:  [197, 193, 202, 255, 12.4, mpf('85.389350681339394')]
+compare x2 to middle x screen: right x2:  202 , middleX:  128
+line:  []
+dominant right:  [197, 193, 202, 255, 12.4, mpf('85.389350681339394')]
+dominant left:  []
+move forward please
+--------------------
+line:  [168, 179, 200, 252, 2.28125, mpf('66.329461515279547')]
+compare x2 to middle x screen: right x2:  200 , middleX:  128
+line:  []
+dominant right:  [168, 179, 200, 252, 2.28125, mpf('66.329461515279547')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  [19, 253, 178, 207, -0.2893081761006289, mpf('16.135588661305526')]
+compare x1 to middle x screen: left x1:  19 , middleX:  128
+dominant right:  []
+dominant left:  [19, 253, 178, 207, -0.2893081761006289, mpf('16.135588661305526')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [200, 255, 200, 202, inf, mpf('90.0')]
+compare x2 to middle x screen: right x2:  200 , middleX:  128
+line:  []
+dominant right:  [200, 255, 200, 202, inf, mpf('90.0')]
+dominant left:  []
+move forward please
+--------------------
+line:  [179, 179, 216, 252, 1.972972972972973, mpf('63.121860247901353')]
+compare x2 to middle x screen: right x2:  216 , middleX:  128
+line:  []
+dominant right:  [179, 179, 216, 252, 1.972972972972973, mpf('63.121860247901353')]
+dominant left:  []
+go left please
+--------------------
+line:  [180, 179, 215, 249, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  215 , middleX:  128
+line:  []
+dominant right:  [180, 179, 215, 249, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+go left please
+--------------------
+line:  [184, 180, 220, 252, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  220 , middleX:  128
+line:  []
+dominant right:  [184, 180, 220, 252, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+go left please
+--------------------
+line:  [187, 179, 223, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  223 , middleX:  128
+line:  []
+dominant right:  [187, 179, 223, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [191, 182, 225, 252, 2.0588235294117645, mpf('64.093492000485611')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [191, 182, 225, 252, 2.0588235294117645, mpf('64.093492000485611')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 216, 233, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  216 , middleX:  128
+line:  []
+dominant right:  [189, 179, 216, 233, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 219, 239, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  219 , middleX:  128
+line:  []
+dominant right:  [189, 179, 219, 239, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 223, 247, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  223 , middleX:  128
+line:  []
+dominant right:  [189, 179, 223, 247, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [194, 188, 225, 254, 2.129032258064516, mpf('64.840698083968348')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [194, 188, 225, 254, 2.129032258064516, mpf('64.840698083968348')]
+dominant left:  []
+move forward please
+--------------------
+line:  [194, 188, 225, 254, 2.129032258064516, mpf('64.840698083968348')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [194, 188, 225, 254, 2.129032258064516, mpf('64.840698083968348')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [191, 182, 225, 255, 2.1470588235294117, mpf('65.0260890941166')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [191, 182, 225, 255, 2.1470588235294117, mpf('65.0260890941166')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [191, 182, 225, 255, 2.1470588235294117, mpf('65.0260890941166')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [191, 182, 225, 255, 2.1470588235294117, mpf('65.0260890941166')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 252, 2.085714285714286, mpf('64.384515679357833')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 252, 2.085714285714286, mpf('64.384515679357833')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 251, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 248, 1.9714285714285715, mpf('63.103763034506628')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 248, 1.9714285714285715, mpf('63.103763034506628')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 223, 247, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  223 , middleX:  128
+line:  []
+dominant right:  [189, 179, 223, 247, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [188, 179, 224, 249, 1.9444444444444444, mpf('62.783888442692529')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [188, 179, 224, 249, 1.9444444444444444, mpf('62.783888442692529')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 222, 245, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  222 , middleX:  128
+line:  []
+dominant right:  [189, 179, 222, 245, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 218, 237, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  218 , middleX:  128
+line:  []
+dominant right:  [189, 179, 218, 237, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 254, 2.0833333333333335, mpf('64.358994175694733')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [189, 179, 225, 253, 2.0555555555555554, mpf('64.057704510128332')]
+dominant left:  []
+move forward please
+--------------------
+line:  [193, 186, 224, 249, 2.032258064516129, mpf('63.799885158652664')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [193, 186, 224, 249, 2.032258064516129, mpf('63.799885158652664')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 222, 244, 1.9696969696969697, mpf('63.083445383048655')]
+compare x2 to middle x screen: right x2:  222 , middleX:  128
+line:  []
+dominant right:  [189, 179, 222, 244, 1.9696969696969697, mpf('63.083445383048655')]
+dominant left:  []
+move forward please
+--------------------
+line:  [190, 179, 225, 249, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [190, 179, 225, 249, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [189, 179, 224, 249, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [189, 179, 220, 241, 2.0, mpf('63.434948822922003')]
+compare x2 to middle x screen: right x2:  220 , middleX:  128
+line:  []
+dominant right:  [189, 179, 220, 241, 2.0, mpf('63.434948822922003')]
+dominant left:  []
+move forward please
+--------------------
+line:  [191, 180, 226, 252, 2.057142857142857, mpf('64.075098492445548')]
+compare x2 to middle x screen: right x2:  226 , middleX:  128
+line:  []
+dominant right:  [191, 180, 226, 252, 2.057142857142857, mpf('64.075098492445548')]
+dominant left:  []
+move forward please
+--------------------
+line:  [195, 179, 229, 249, 2.0588235294117645, mpf('64.093492000485611')]
+compare x2 to middle x screen: right x2:  229 , middleX:  128
+line:  []
+dominant right:  [195, 179, 229, 249, 2.0588235294117645, mpf('64.093492000485611')]
+dominant left:  []
+move forward please
+--------------------
+line:  [195, 180, 229, 253, 2.1470588235294117, mpf('65.0260890941166')]
+compare x2 to middle x screen: right x2:  229 , middleX:  128
+line:  []
+dominant right:  [195, 180, 229, 253, 2.1470588235294117, mpf('65.0260890941166')]
+dominant left:  []
+move forward please
+--------------------
+line:  [190, 179, 223, 247, 2.0606060606060606, mpf('64.112973733673314')]
+compare x2 to middle x screen: right x2:  223 , middleX:  128
+line:  []
+dominant right:  [190, 179, 223, 247, 2.0606060606060606, mpf('64.112973733673314')]
+dominant left:  []
+move forward please
+--------------------
+line:  [187, 179, 220, 247, 2.0606060606060606, mpf('64.112973733673314')]
+compare x2 to middle x screen: right x2:  220 , middleX:  128
+line:  []
+dominant right:  [187, 179, 220, 247, 2.0606060606060606, mpf('64.112973733673314')]
+dominant left:  []
+move forward please
+--------------------
+line:  [173, 179, 207, 253, 2.176470588235294, mpf('65.323136829662943')]
+compare x2 to middle x screen: right x2:  207 , middleX:  128
+line:  []
+dominant right:  [173, 179, 207, 253, 2.176470588235294, mpf('65.323136829662943')]
+dominant left:  []
+go left please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [11, 252, 175, 208, -0.2682926829268293, mpf('15.018360631150669')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 252, 175, 208, -0.2682926829268293, mpf('15.018360631150669')]
+go right please
+--------------------
+line:  []
+line:  [11, 252, 175, 208, -0.2682926829268293, mpf('15.018360631150669')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 252, 175, 208, -0.2682926829268293, mpf('15.018360631150669')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [12, 252, 176, 208, -0.2682926829268293, mpf('15.018360631150669')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 252, 176, 208, -0.2682926829268293, mpf('15.018360631150669')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [12, 252, 176, 208, -0.2682926829268293, mpf('15.018360631150669')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 252, 176, 208, -0.2682926829268293, mpf('15.018360631150669')]
+go right please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [172, 179, 206, 250, 2.088235294117647, mpf('64.411486858683574')]
+compare x2 to middle x screen: right x2:  206 , middleX:  128
+line:  []
+dominant right:  [172, 179, 206, 250, 2.088235294117647, mpf('64.411486858683574')]
+dominant left:  []
+go left please
+--------------------
+line:  [203, 180, 236, 252, 2.1818181818181817, mpf('65.376435213836388')]
+compare x2 to middle x screen: right x2:  236 , middleX:  128
+line:  []
+dominant right:  [203, 180, 236, 252, 2.1818181818181817, mpf('65.376435213836388')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  [6, 245, 39, 179, -2.0, mpf('63.434948822922003')]
+compare x1 to middle x screen: left x1:  6 , middleX:  128
+dominant right:  []
+dominant left:  [6, 245, 39, 179, -2.0, mpf('63.434948822922003')]
+move forward please
+--------------------
+line:  []
+line:  [12, 251, 46, 186, -1.911764705882353, mpf('62.386972176915528')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 251, 46, 186, -1.911764705882353, mpf('62.386972176915528')]
+move forward please
+--------------------
+line:  []
+line:  [17, 254, 55, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  17 , middleX:  128
+dominant right:  []
+dominant left:  [17, 254, 55, 179, -1.9736842105263157, mpf('63.130186912500932')]
+move forward please
+--------------------
+line:  []
+line:  [13, 254, 51, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  13 , middleX:  128
+dominant right:  []
+dominant left:  [13, 254, 51, 179, -1.9736842105263157, mpf('63.130186912500932')]
+move forward please
+--------------------
+line:  []
+line:  [11, 248, 48, 179, -1.864864864864865, mpf('61.798371781305299')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 248, 48, 179, -1.864864864864865, mpf('61.798371781305299')]
+move forward please
+--------------------
+line:  []
+line:  [11, 249, 39, 194, -1.9642857142857142, mpf('63.019769281777144')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 249, 39, 194, -1.9642857142857142, mpf('63.019769281777144')]
+move forward please
+--------------------
+line:  []
+line:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+move forward please
+--------------------
+line:  []
+line:  [10, 253, 48, 179, -1.9473684210526316, mpf('62.81888891452278')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 253, 48, 179, -1.9473684210526316, mpf('62.81888891452278')]
+move forward please
+--------------------
+line:  []
+line:  [10, 253, 37, 198, -2.037037037037037, mpf('63.853158764419106')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 253, 37, 198, -2.037037037037037, mpf('63.853158764419106')]
+move forward please
+--------------------
+line:  []
+line:  [10, 255, 43, 187, -2.0606060606060606, mpf('64.112973733673314')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 255, 43, 187, -2.0606060606060606, mpf('64.112973733673314')]
+move forward please
+--------------------
+line:  []
+line:  [11, 250, 48, 179, -1.9189189189189189, mpf('62.474774256255664')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 250, 48, 179, -1.9189189189189189, mpf('62.474774256255664')]
+move forward please
+--------------------
+line:  []
+line:  [11, 250, 48, 180, -1.8918918918918919, mpf('62.140349304757727')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 250, 48, 180, -1.8918918918918919, mpf('62.140349304757727')]
+move forward please
+--------------------
+line:  []
+line:  [11, 250, 44, 185, -1.9696969696969697, mpf('63.083445383048655')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 250, 44, 185, -1.9696969696969697, mpf('63.083445383048655')]
+move forward please
+--------------------
+line:  []
+line:  [10, 253, 37, 198, -2.037037037037037, mpf('63.853158764419106')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 253, 37, 198, -2.037037037037037, mpf('63.853158764419106')]
+move forward please
+--------------------
+line:  []
+line:  [10, 253, 47, 180, -1.972972972972973, mpf('63.121860247901353')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 253, 47, 180, -1.972972972972973, mpf('63.121860247901353')]
+move forward please
+--------------------
+line:  []
+line:  [11, 250, 44, 185, -1.9696969696969697, mpf('63.083445383048655')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 250, 44, 185, -1.9696969696969697, mpf('63.083445383048655')]
+move forward please
+--------------------
+line:  []
+line:  [11, 249, 48, 179, -1.8918918918918919, mpf('62.140349304757727')]
+compare x1 to middle x screen: left x1:  11 , middleX:  128
+dominant right:  []
+dominant left:  [11, 249, 48, 179, -1.8918918918918919, mpf('62.140349304757727')]
+move forward please
+--------------------
+line:  []
+line:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+move forward please
+--------------------
+line:  []
+line:  [10, 255, 47, 179, -2.054054054054054, mpf('64.041230738439353')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 255, 47, 179, -2.054054054054054, mpf('64.041230738439353')]
+move forward please
+--------------------
+line:  []
+line:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 254, 48, 179, -1.9736842105263157, mpf('63.130186912500932')]
+move forward please
+--------------------
+line:  []
+line:  [12, 249, 49, 179, -1.8918918918918919, mpf('62.140349304757727')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 249, 49, 179, -1.8918918918918919, mpf('62.140349304757727')]
+move forward please
+--------------------
+line:  []
+line:  [14, 253, 51, 179, -2.0, mpf('63.434948822922003')]
+compare x1 to middle x screen: left x1:  14 , middleX:  128
+dominant right:  []
+dominant left:  [14, 253, 51, 179, -2.0, mpf('63.434948822922003')]
+move forward please
+--------------------
+line:  []
+line:  [20, 249, 56, 180, -1.9166666666666667, mpf('62.447188423282206')]
+compare x1 to middle x screen: left x1:  20 , middleX:  128
+dominant right:  []
+dominant left:  [20, 249, 56, 180, -1.9166666666666667, mpf('62.447188423282206')]
+move forward please
+--------------------
+line:  []
+line:  [38, 254, 76, 179, -1.9736842105263157, mpf('63.130186912500932')]
+compare x1 to middle x screen: left x1:  38 , middleX:  128
+dominant right:  []
+dominant left:  [38, 254, 76, 179, -1.9736842105263157, mpf('63.130186912500932')]
+go right please
+--------------------
+line:  []
+line:  [40, 251, 83, 179, -1.6744186046511629, mpf('59.153412587851399')]
+compare x1 to middle x screen: left x1:  40 , middleX:  128
+dominant right:  []
+dominant left:  [40, 251, 83, 179, -1.6744186046511629, mpf('59.153412587851399')]
+go right please
+--------------------
+line:  []
+line:  [48, 251, 92, 179, -1.6363636363636365, mpf('58.570434385161491')]
+compare x1 to middle x screen: left x1:  48 , middleX:  128
+dominant right:  []
+dominant left:  [48, 251, 92, 179, -1.6363636363636365, mpf('58.570434385161491')]
+go right please
+--------------------
+line:  []
+line:  [64, 254, 108, 180, -1.6818181818181819, mpf('59.2645122980799')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 254, 108, 180, -1.6818181818181819, mpf('59.2645122980799')]
+go right please
+--------------------
+line:  []
+line:  [44, 254, 89, 179, -1.6666666666666667, mpf('59.036243467926482')]
+compare x1 to middle x screen: left x1:  44 , middleX:  128
+dominant right:  []
+dominant left:  [44, 254, 89, 179, -1.6666666666666667, mpf('59.036243467926482')]
+go right please
+--------------------
+line:  []
+line:  [45, 250, 88, 180, -1.627906976744186, mpf('58.438188158350655')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 250, 88, 180, -1.627906976744186, mpf('58.438188158350655')]
+go right please
+--------------------
+line:  []
+line:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+go right please
+--------------------
+line:  []
+line:  [46, 248, 89, 179, -1.6046511627906976, mpf('58.069317896282179')]
+compare x1 to middle x screen: left x1:  46 , middleX:  128
+dominant right:  []
+dominant left:  [46, 248, 89, 179, -1.6046511627906976, mpf('58.069317896282179')]
+go right please
+--------------------
+line:  []
+line:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 105, 181, -1.8048780487804879, mpf('61.011177478808456')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 105, 181, -1.8048780487804879, mpf('61.011177478808456')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 106, 182, -1.7380952380952381, mpf('60.086354008465122')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 106, 182, -1.7380952380952381, mpf('60.086354008465122')]
+go right please
+--------------------
+line:  []
+line:  [46, 249, 77, 198, -1.6451612903225807, mpf('58.706961004079815')]
+compare x1 to middle x screen: left x1:  46 , middleX:  128
+dominant right:  []
+dominant left:  [46, 249, 77, 198, -1.6451612903225807, mpf('58.706961004079815')]
+go right please
+--------------------
+line:  []
+line:  [46, 249, 89, 179, -1.627906976744186, mpf('58.438188158350655')]
+compare x1 to middle x screen: left x1:  46 , middleX:  128
+dominant right:  []
+dominant left:  [46, 249, 89, 179, -1.627906976744186, mpf('58.438188158350655')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 106, 180, -1.7857142857142858, mpf('60.751173663453024')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 106, 180, -1.7857142857142858, mpf('60.751173663453024')]
+go right please
+--------------------
+line:  []
+line:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+go right please
+--------------------
+line:  []
+line:  [44, 254, 89, 179, -1.6666666666666667, mpf('59.036243467926482')]
+compare x1 to middle x screen: left x1:  44 , middleX:  128
+dominant right:  []
+dominant left:  [44, 254, 89, 179, -1.6666666666666667, mpf('59.036243467926482')]
+go right please
+--------------------
+line:  []
+line:  [64, 251, 103, 185, -1.6923076923076923, mpf('59.420773127510991')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 251, 103, 185, -1.6923076923076923, mpf('59.420773127510991')]
+go right please
+--------------------
+line:  []
+line:  [64, 251, 107, 179, -1.6744186046511629, mpf('59.153412587851399')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 251, 107, 179, -1.6744186046511629, mpf('59.153412587851399')]
+go right please
+--------------------
+line:  []
+line:  [64, 253, 106, 179, -1.7619047619047619, mpf('60.422161318738667')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 253, 106, 179, -1.7619047619047619, mpf('60.422161318738667')]
+go right please
+--------------------
+line:  []
+line:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 250, 89, 179, -1.6136363636363635, mpf('58.212746878335246')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 105, 181, -1.8048780487804879, mpf('61.011177478808456')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 105, 181, -1.8048780487804879, mpf('61.011177478808456')]
+go right please
+--------------------
+line:  []
+line:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+go right please
+--------------------
+line:  []
+line:  [45, 249, 89, 179, -1.5909090909090908, mpf('57.847704858717663')]
+compare x1 to middle x screen: left x1:  45 , middleX:  128
+dominant right:  []
+dominant left:  [45, 249, 89, 179, -1.5909090909090908, mpf('57.847704858717663')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 106, 180, -1.7857142857142858, mpf('60.751173663453024')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 106, 180, -1.7857142857142858, mpf('60.751173663453024')]
+go right please
+--------------------
+line:  []
+line:  [64, 250, 107, 179, -1.6511627906976745, mpf('58.799485396019364')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 250, 107, 179, -1.6511627906976745, mpf('58.799485396019364')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 106, 179, -1.8095238095238095, mpf('61.073574164746383')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 106, 179, -1.8095238095238095, mpf('61.073574164746383')]
+go right please
+--------------------
+line:  []
+line:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+go right please
+--------------------
+line:  []
+line:  [64, 251, 107, 179, -1.6744186046511629, mpf('59.153412587851399')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 251, 107, 179, -1.6744186046511629, mpf('59.153412587851399')]
+go right please
+--------------------
+line:  []
+line:  [64, 253, 107, 179, -1.7209302325581395, mpf('59.839939161912909')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 253, 107, 179, -1.7209302325581395, mpf('59.839939161912909')]
+go right please
+--------------------
+line:  []
+line:  [64, 255, 106, 179, -1.8095238095238095, mpf('61.073574164746383')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 255, 106, 179, -1.8095238095238095, mpf('61.073574164746383')]
+go right please
+--------------------
+line:  []
+line:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 254, 107, 179, -1.744186046511628, mpf('60.172915345525269')]
+go right please
+--------------------
+line:  []
+line:  [44, 252, 87, 180, -1.6744186046511629, mpf('59.153412587851399')]
+compare x1 to middle x screen: left x1:  44 , middleX:  128
+dominant right:  []
+dominant left:  [44, 252, 87, 180, -1.6744186046511629, mpf('59.153412587851399')]
+go right please
+--------------------
+line:  []
+line:  [43, 255, 83, 190, -1.625, mpf('58.392497753751101')]
+compare x1 to middle x screen: left x1:  43 , middleX:  128
+dominant right:  []
+dominant left:  [43, 255, 83, 190, -1.625, mpf('58.392497753751101')]
+go right please
+--------------------
+line:  []
+line:  [64, 252, 105, 180, -1.7560975609756098, mpf('60.340890764004904')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 252, 105, 180, -1.7560975609756098, mpf('60.340890764004904')]
+go right please
+--------------------
+line:  []
+line:  [64, 249, 104, 179, -1.75, mpf('60.255118703057782')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 249, 104, 179, -1.75, mpf('60.255118703057782')]
+go right please
+--------------------
+line:  []
+line:  [64, 243, 102, 179, -1.6842105263157894, mpf('59.300277449185593')]
+compare x1 to middle x screen: left x1:  64 , middleX:  128
+dominant right:  []
+dominant left:  [64, 243, 102, 179, -1.6842105263157894, mpf('59.300277449185593')]
+go right please
+--------------------
+line:  []
+line:  [58, 249, 95, 179, -1.8918918918918919, mpf('62.140349304757727')]
+compare x1 to middle x screen: left x1:  58 , middleX:  128
+dominant right:  []
+dominant left:  [58, 249, 95, 179, -1.8918918918918919, mpf('62.140349304757727')]
+go right please
+--------------------
+line:  []
+line:  [43, 250, 80, 179, -1.9189189189189189, mpf('62.474774256255664')]
+compare x1 to middle x screen: left x1:  43 , middleX:  128
+dominant right:  []
+dominant left:  [43, 250, 80, 179, -1.9189189189189189, mpf('62.474774256255664')]
+go right please
+--------------------
+line:  []
+line:  [26, 253, 62, 179, -2.0555555555555554, mpf('64.057704510128332')]
+compare x1 to middle x screen: left x1:  26 , middleX:  128
+dominant right:  []
+dominant left:  [26, 253, 62, 179, -2.0555555555555554, mpf('64.057704510128332')]
+move forward please
+--------------------
+line:  []
+line:  [17, 254, 45, 195, -2.107142857142857, mpf('64.612093708904084')]
+compare x1 to middle x screen: left x1:  17 , middleX:  128
+dominant right:  []
+dominant left:  [17, 254, 45, 195, -2.107142857142857, mpf('64.612093708904084')]
+move forward please
+--------------------
+line:  []
+line:  [6, 250, 39, 179, -2.1515151515151514, mpf('65.071525864538728')]
+compare x1 to middle x screen: left x1:  6 , middleX:  128
+dominant right:  []
+dominant left:  [6, 250, 39, 179, -2.1515151515151514, mpf('65.071525864538728')]
+move forward please
+--------------------
+line:  []
+line:  [6, 240, 34, 179, -2.1785714285714284, mpf('65.344101255918389')]
+compare x1 to middle x screen: left x1:  6 , middleX:  128
+dominant right:  []
+dominant left:  [6, 240, 34, 179, -2.1785714285714284, mpf('65.344101255918389')]
+move forward please
+--------------------
+line:  []
+line:  [7, 233, 31, 180, -2.2083333333333335, mpf('65.637546984687816')]
+compare x1 to middle x screen: left x1:  7 , middleX:  128
+dominant right:  []
+dominant left:  [7, 233, 31, 180, -2.2083333333333335, mpf('65.637546984687816')]
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [220, 179, 249, 231, 1.793103448275862, mpf('60.851928154286959')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [220, 179, 249, 231, 1.793103448275862, mpf('60.851928154286959')]
+dominant left:  []
+move forward please
+--------------------
+line:  [207, 179, 248, 251, 1.7560975609756098, mpf('60.340890764004904')]
+compare x2 to middle x screen: right x2:  248 , middleX:  128
+line:  []
+dominant right:  [207, 179, 248, 251, 1.7560975609756098, mpf('60.340890764004904')]
+dominant left:  []
+move forward please
+--------------------
+line:  [214, 179, 250, 241, 1.7222222222222223, mpf('59.858614447924658')]
+compare x2 to middle x screen: right x2:  250 , middleX:  128
+line:  []
+dominant right:  [214, 179, 250, 241, 1.7222222222222223, mpf('59.858614447924658')]
+dominant left:  []
+move forward please
+--------------------
+line:  [217, 180, 249, 236, 1.75, mpf('60.255118703057782')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [217, 180, 249, 236, 1.75, mpf('60.255118703057782')]
+dominant left:  []
+move forward please
+--------------------
+line:  [222, 180, 249, 230, 1.8518518518518519, mpf('61.630953706721421')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [222, 180, 249, 230, 1.8518518518518519, mpf('61.630953706721421')]
+dominant left:  []
+move forward please
+--------------------
+line:  [220, 179, 249, 231, 1.793103448275862, mpf('60.851928154286959')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [220, 179, 249, 231, 1.793103448275862, mpf('60.851928154286959')]
+dominant left:  []
+move forward please
+--------------------
+line:  [219, 179, 249, 232, 1.7666666666666666, mpf('60.488501442909687')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 232, 1.7666666666666666, mpf('60.488501442909687')]
+dominant left:  []
+move forward please
+--------------------
+line:  [219, 179, 249, 231, 1.7333333333333334, mpf('60.018360631150671')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 231, 1.7333333333333334, mpf('60.018360631150671')]
+dominant left:  []
+move forward please
+--------------------
+line:  [219, 179, 249, 232, 1.7666666666666666, mpf('60.488501442909687')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 232, 1.7666666666666666, mpf('60.488501442909687')]
+dominant left:  []
+move forward please
+--------------------
+line:  [219, 179, 249, 231, 1.7333333333333334, mpf('60.018360631150671')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 231, 1.7333333333333334, mpf('60.018360631150671')]
+dominant left:  []
+move forward please
+--------------------
+line:  [218, 180, 249, 234, 1.7419354838709677, mpf('60.140983835076902')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [218, 180, 249, 234, 1.7419354838709677, mpf('60.140983835076902')]
+dominant left:  []
+move forward please
+--------------------
+line:  [222, 192, 250, 244, 1.8571428571428572, mpf('61.699244233993625')]
+compare x2 to middle x screen: right x2:  250 , middleX:  128
+line:  []
+dominant right:  [222, 192, 250, 244, 1.8571428571428572, mpf('61.699244233993625')]
+dominant left:  []
+move forward please
+--------------------
+line:  [198, 179, 239, 254, 1.829268292682927, mpf('61.33604288971847')]
+compare x2 to middle x screen: right x2:  239 , middleX:  128
+line:  []
+dominant right:  [198, 179, 239, 254, 1.829268292682927, mpf('61.33604288971847')]
+dominant left:  []
+move forward please
+--------------------
+line:  [176, 180, 220, 253, 1.6590909090909092, mpf('58.920960364920752')]
+compare x2 to middle x screen: right x2:  220 , middleX:  128
+line:  []
+dominant right:  [176, 180, 220, 253, 1.6590909090909092, mpf('58.920960364920752')]
+dominant left:  []
+go left please
+--------------------
+line:  [182, 179, 224, 252, 1.7380952380952381, mpf('60.086354008465122')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [182, 179, 224, 252, 1.7380952380952381, mpf('60.086354008465122')]
+dominant left:  []
+go left please
+--------------------
+line:  [177, 179, 218, 250, 1.7317073170731707, mpf('59.995079129175991')]
+compare x2 to middle x screen: right x2:  218 , middleX:  128
+line:  []
+dominant right:  [177, 179, 218, 250, 1.7317073170731707, mpf('59.995079129175991')]
+dominant left:  []
+go left please
+--------------------
+line:  [182, 179, 224, 252, 1.7380952380952381, mpf('60.086354008465122')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [182, 179, 224, 252, 1.7380952380952381, mpf('60.086354008465122')]
+dominant left:  []
+go left please
+--------------------
+line:  [180, 179, 223, 255, 1.7674418604651163, mpf('60.49927537650084')]
+compare x2 to middle x screen: right x2:  223 , middleX:  128
+line:  []
+dominant right:  [180, 179, 223, 255, 1.7674418604651163, mpf('60.49927537650084')]
+dominant left:  []
+go left please
+--------------------
+line:  [183, 179, 224, 251, 1.7560975609756098, mpf('60.340890764004904')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [183, 179, 224, 251, 1.7560975609756098, mpf('60.340890764004904')]
+dominant left:  []
+go left please
+--------------------
+line:  [183, 179, 224, 251, 1.7560975609756098, mpf('60.340890764004904')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [183, 179, 224, 251, 1.7560975609756098, mpf('60.340890764004904')]
+dominant left:  []
+go left please
+--------------------
+line:  [191, 193, 225, 254, 1.7941176470588236, mpf('60.865707802773819')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [191, 193, 225, 254, 1.7941176470588236, mpf('60.865707802773819')]
+dominant left:  []
+move forward please
+--------------------
+line:  [182, 179, 225, 254, 1.744186046511628, mpf('60.172915345525269')]
+compare x2 to middle x screen: right x2:  225 , middleX:  128
+line:  []
+dominant right:  [182, 179, 225, 254, 1.744186046511628, mpf('60.172915345525269')]
+dominant left:  []
+go left please
+--------------------
+line:  [183, 180, 224, 250, 1.7073170731707317, mpf('59.641884541233374')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [183, 180, 224, 250, 1.7073170731707317, mpf('59.641884541233374')]
+dominant left:  []
+go left please
+--------------------
+line:  [182, 180, 224, 250, 1.6666666666666667, mpf('59.036243467926482')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [182, 180, 224, 250, 1.6666666666666667, mpf('59.036243467926482')]
+dominant left:  []
+go left please
+--------------------
+line:  [182, 180, 224, 250, 1.6666666666666667, mpf('59.036243467926482')]
+compare x2 to middle x screen: right x2:  224 , middleX:  128
+line:  []
+dominant right:  [182, 180, 224, 250, 1.6666666666666667, mpf('59.036243467926482')]
+dominant left:  []
+go left please
+--------------------
+line:  [185, 179, 228, 254, 1.744186046511628, mpf('60.172915345525269')]
+compare x2 to middle x screen: right x2:  228 , middleX:  128
+line:  []
+dominant right:  [185, 179, 228, 254, 1.744186046511628, mpf('60.172915345525269')]
+dominant left:  []
+go left please
+--------------------
+line:  [203, 179, 242, 250, 1.8205128205128205, mpf('61.220193695602788')]
+compare x2 to middle x screen: right x2:  242 , middleX:  128
+line:  []
+dominant right:  [203, 179, 242, 250, 1.8205128205128205, mpf('61.220193695602788')]
+dominant left:  []
+move forward please
+--------------------
+line:  [219, 179, 249, 233, 1.8, mpf('60.945395900922861')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [219, 179, 249, 233, 1.8, mpf('60.945395900922861')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  [7, 229, 30, 179, -2.1739130434782608, mpf('65.297569772228698')]
+compare x1 to middle x screen: left x1:  7 , middleX:  128
+dominant right:  []
+dominant left:  [7, 229, 30, 179, -2.1739130434782608, mpf('65.297569772228698')]
+move forward please
+--------------------
+line:  []
+line:  [14, 250, 48, 179, -2.088235294117647, mpf('64.411486858683574')]
+compare x1 to middle x screen: left x1:  14 , middleX:  128
+dominant right:  []
+dominant left:  [14, 250, 48, 179, -2.088235294117647, mpf('64.411486858683574')]
+move forward please
+--------------------
+line:  []
+line:  [14, 253, 49, 180, -2.085714285714286, mpf('64.384515679357833')]
+compare x1 to middle x screen: left x1:  14 , middleX:  128
+dominant right:  []
+dominant left:  [14, 253, 49, 180, -2.085714285714286, mpf('64.384515679357833')]
+move forward please
+--------------------
+line:  []
+line:  [13, 254, 49, 179, -2.0833333333333335, mpf('64.358994175694733')]
+compare x1 to middle x screen: left x1:  13 , middleX:  128
+dominant right:  []
+dominant left:  [13, 254, 49, 179, -2.0833333333333335, mpf('64.358994175694733')]
+move forward please
+--------------------
+line:  []
+line:  [12, 251, 48, 180, -1.9722222222222223, mpf('63.113065807523292')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 251, 48, 180, -1.9722222222222223, mpf('63.113065807523292')]
+move forward please
+--------------------
+line:  []
+line:  [13, 247, 48, 179, -1.9428571428571428, mpf('62.764853300697482')]
+compare x1 to middle x screen: left x1:  13 , middleX:  128
+dominant right:  []
+dominant left:  [13, 247, 48, 179, -1.9428571428571428, mpf('62.764853300697482')]
+move forward please
+--------------------
+line:  []
+line:  [12, 249, 48, 179, -1.9444444444444444, mpf('62.783888442692529')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 249, 48, 179, -1.9444444444444444, mpf('62.783888442692529')]
+move forward please
+--------------------
+line:  []
+line:  [12, 252, 47, 180, -2.057142857142857, mpf('64.075098492445548')]
+compare x1 to middle x screen: left x1:  12 , middleX:  128
+dominant right:  []
+dominant left:  [12, 252, 47, 180, -2.057142857142857, mpf('64.075098492445548')]
+move forward please
+--------------------
+line:  []
+line:  [10, 254, 46, 179, -2.0833333333333335, mpf('64.358994175694733')]
+compare x1 to middle x screen: left x1:  10 , middleX:  128
+dominant right:  []
+dominant left:  [10, 254, 46, 179, -2.0833333333333335, mpf('64.358994175694733')]
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [218, 179, 249, 236, 1.8387096774193548, mpf('61.460014812040036')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [218, 179, 249, 236, 1.8387096774193548, mpf('61.460014812040036')]
+dominant left:  []
+move forward please
+--------------------
+line:  [217, 179, 250, 239, 1.8181818181818181, mpf('61.189206257026932')]
+compare x2 to middle x screen: right x2:  250 , middleX:  128
+line:  []
+dominant right:  [217, 179, 250, 239, 1.8181818181818181, mpf('61.189206257026932')]
+dominant left:  []
+move forward please
+--------------------
+line:  [218, 179, 249, 235, 1.8064516129032258, mpf('61.032339353935974')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [218, 179, 249, 235, 1.8064516129032258, mpf('61.032339353935974')]
+dominant left:  []
+move forward please
+--------------------
+line:  [218, 179, 249, 234, 1.7741935483870968, mpf('60.592810939266343')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [218, 179, 249, 234, 1.7741935483870968, mpf('60.592810939266343')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+dominant left:  []
+move forward please
+--------------------
+line:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+compare x2 to middle x screen: right x2:  249 , middleX:  128
+line:  []
+dominant right:  [221, 179, 249, 229, 1.7857142857142858, mpf('60.751173663453024')]
+dominant left:  []
+move forward please
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+line:  []
+line:  []
+dominant right:  []
+dominant left:  []
+move forward only
+Exiting Application
+
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+go left -- main thread
+left
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+go right -- main thread
+right
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+go left -- main thread
+left
+go left -- main thread
+left
+go left -- main thread
+left
+move forward -- main thread
+forward
+go left -- main thread
+left
+go left -- main thread
+left
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+move forward -- main thread
+forward
+Cleanup

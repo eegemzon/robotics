@@ -1,0 +1,539 @@
+Initializing camera
+Capturing raw video stream
+--------------------
+dominant right:  []
+dominant left:  []
+move forward only
+--------------------
+dominant right:  [177, 153, 246, 215, 0.89855072463768115, mpf('41.941302425904176')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 242, 212, 0.81538461538461537, mpf('39.193273094468424')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [192, 166, 246, 215, 0.90740740740740744, mpf('42.220833135927926')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [190, 174, 245, 199, 0.45454545454545453, mpf('24.443954780416536')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [184, 162, 246, 214, 0.83870967741935487, mpf('39.98688624496419')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [164, 155, 232, 201, 0.67647058823529416, mpf('34.077195280130738')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [184, 162, 246, 214, 0.83870967741935487, mpf('39.98688624496419')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [160, 154, 228, 198, 0.6470588235294118, mpf('32.905242922987902')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [183, 162, 238, 207, 0.81818181818181823, mpf('39.289406862500357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [183, 162, 246, 215, 0.84126984126984128, mpf('40.072890052350985')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [157, 153, 234, 203, 0.64935064935064934, mpf('32.99770510121629')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [161, 154, 235, 204, 0.67567567567567566, mpf('34.045937356601662')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 215, 0.89473684210526316, mpf('41.820169880135772')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [166, 155, 238, 206, 0.70833333333333337, mpf('35.3112134396332')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [183, 162, 243, 211, 0.81666666666666665, mpf('39.237367113401547')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [176, 159, 239, 207, 0.76190476190476186, mpf('37.30394827798343')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [184, 162, 246, 214, 0.83870967741935487, mpf('39.98688624496419')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [181, 160, 246, 215, 0.84615384615384615, mpf('40.236358309273818')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [188, 164, 246, 214, 0.86206896551724133, mpf('40.763605200941164')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [184, 162, 246, 214, 0.83870967741935487, mpf('39.98688624496419')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [172, 157, 243, 211, 0.76056338028169013, mpf('37.255289453577085')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 242, 210, 0.7846153846153846, mpf('38.118276369363052')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [183, 162, 243, 211, 0.81666666666666665, mpf('39.237367113401547')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [158, 153, 232, 201, 0.64864864864864868, mpf('32.96940390346213')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [184, 162, 245, 213, 0.83606557377049184, mpf('39.897834747641816')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 240, 208, 0.78688524590163933, mpf('38.198685176018429')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [173, 158, 243, 211, 0.75714285714285712, mpf('37.130924448209491')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [173, 158, 232, 201, 0.72881355932203384, mpf('36.08507304285213')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [196, 167, 246, 214, 0.93999999999999995, mpf('43.228530259965922')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [181, 161, 244, 212, 0.80952380952380953, mpf('38.990994042505477')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [171, 157, 245, 213, 0.7567567567567568, mpf('37.116860683270275')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [174, 158, 240, 208, 0.75757575757575757, mpf('37.146686698021782')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [159, 153, 232, 201, 0.65753424657534243, mpf('33.326289687115207')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [180, 160, 246, 214, 0.81818181818181823, mpf('39.289406862500357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [171, 157, 245, 213, 0.7567567567567568, mpf('37.116860683270275')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [169, 156, 238, 206, 0.72463768115942029, mpf('35.928502422822831')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [181, 161, 245, 213, 0.8125, mpf('39.093858886229498')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [169, 156, 239, 207, 0.72857142857142854, mpf('36.076011556368599')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [171, 157, 245, 213, 0.7567567567567568, mpf('37.116860683270275')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 240, 208, 0.78688524590163933, mpf('38.198685176018429')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [172, 157, 243, 211, 0.76056338028169013, mpf('37.255289453577085')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 243, 211, 0.78787878787878785, mpf('38.233825177446938')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [155, 153, 229, 198, 0.60810810810810811, mpf('31.304123495590975')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [156, 153, 245, 213, 0.6741573033707865, mpf('33.986167109648584')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [189, 164, 243, 211, 0.87037037037037035, mpf('41.035345277143882')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [178, 160, 244, 212, 0.78787878787878785, mpf('38.233825177446938')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [172, 157, 241, 209, 0.75362318840579712, mpf('37.002526528196171')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 239, 207, 0.78333333333333333, mpf('38.072781873990834')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [168, 156, 243, 211, 0.73333333333333328, mpf('36.25383773744479')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [168, 156, 241, 209, 0.72602739726027399, mpf('35.980677568618319')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [171, 157, 236, 204, 0.72307692307692306, mpf('35.869823517721308')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [172, 157, 241, 209, 0.75362318840579712, mpf('37.002526528196171')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [169, 156, 231, 200, 0.70967741935483875, mpf('35.362461887069053')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [188, 164, 246, 214, 0.86206896551724133, mpf('40.763605200941164')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [180, 160, 244, 212, 0.8125, mpf('39.093858886229498')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 244, 212, 0.87272727272727268, mpf('41.112090439166927')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 245, 214, 0.87931034482758619, mpf('41.325500479170337')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 242, 210, 0.7846153846153846, mpf('38.118276369363052')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 214, 0.8771929824561403, mpf('41.257011704312866')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [161, 154, 238, 206, 0.67532467532467533, mpf('34.032127817338321')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 244, 212, 0.79104477611940294, mpf('38.345574953993406')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [186, 163, 245, 213, 0.84745762711864403, mpf('40.279863068956438')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [176, 159, 246, 214, 0.7857142857142857, mpf('38.15722658736906')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [195, 167, 246, 215, 0.94117647058823528, mpf('43.264295411071615')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 240, 208, 0.78688524590163933, mpf('38.198685176018429')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [172, 157, 242, 210, 0.75714285714285712, mpf('37.130924448209491')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [194, 166, 246, 215, 0.94230769230769229, mpf('43.298645394673876')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [185, 163, 240, 208, 0.81818181818181823, mpf('39.289406862500357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [174, 158, 239, 207, 0.75384615384615383, mpf('37.010673233603107')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 238, 206, 0.77966101694915257, mpf('37.942153350118929')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [173, 158, 243, 211, 0.75714285714285712, mpf('37.130924448209491')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [188, 163, 246, 214, 0.87931034482758619, mpf('41.325500479170337')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [162, 154, 232, 201, 0.67142857142857137, mpf('33.878539805109646')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 238, 206, 0.77966101694915257, mpf('37.942153350118929')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [179, 160, 246, 214, 0.80597014925373134, mpf('38.867777502320692')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [164, 155, 236, 204, 0.68055555555555558, mpf('34.237462776857541')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [169, 156, 238, 206, 0.72463768115942029, mpf('35.928502422822831')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [154, 153, 229, 198, 0.59999999999999998, mpf('30.963756532073521')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [155, 153, 225, 195, 0.59999999999999998, mpf('30.963756532073521')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [180, 161, 239, 207, 0.77966101694915257, mpf('37.942153350118929')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [159, 153, 231, 200, 0.65277777777777779, mpf('33.135609548718875')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [171, 157, 232, 201, 0.72131147540983609, mpf('35.8033441083711')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 214, 0.8771929824561403, mpf('41.257011704312866')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [194, 166, 246, 215, 0.94230769230769229, mpf('43.298645394673876')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [194, 166, 246, 214, 0.92307692307692313, mpf('42.709389957361473')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [180, 160, 245, 213, 0.81538461538461537, mpf('39.193273094468424')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 243, 212, 0.875, mpf('41.185925165709648')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 245, 213, 0.875, mpf('41.185925165709648')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [190, 165, 246, 214, 0.875, mpf('41.185925165709648')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [156, 153, 225, 195, 0.60869565217391308, mpf('31.328692867804172')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [176, 159, 238, 206, 0.75806451612903225, mpf('37.164474893511446')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [174, 159, 237, 205, 0.73015873015873012, mpf('36.135376611589201')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [166, 155, 237, 205, 0.70422535211267601, mpf('35.15417763214743')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [168, 165, 246, 200, 0.44871794871794873, mpf('24.166629842985486')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [180, 160, 243, 211, 0.80952380952380953, mpf('38.990994042505477')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 245, 214, 0.87931034482758619, mpf('41.325500479170337')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 242, 210, 0.7846153846153846, mpf('38.118276369363052')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [196, 167, 246, 214, 0.93999999999999995, mpf('43.228530259965922')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 214, 0.8771929824561403, mpf('41.257011704312866')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 160, 239, 207, 0.75806451612903225, mpf('37.164474893511446')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [182, 162, 245, 213, 0.80952380952380953, mpf('38.990994042505477')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [159, 153, 234, 202, 0.65333333333333332, mpf('33.157923884672236')]
+dominant left:  []
+go left please
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 243, 211, 0.87037037037037035, mpf('41.035345277143882')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [168, 156, 241, 209, 0.72602739726027399, mpf('35.980677568618319')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 214, 0.8771929824561403, mpf('41.257011704312866')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 246, 214, 0.8771929824561403, mpf('41.257011704312866')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [177, 159, 242, 210, 0.7846153846153846, mpf('38.118276369363052')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [185, 162, 241, 209, 0.8392857142857143, mpf('40.006256014176614')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [189, 164, 245, 213, 0.875, mpf('41.185925165709648')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [187, 163, 246, 214, 0.86440677966101698, mpf('40.840357706287357')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [180, 160, 243, 211, 0.80952380952380953, mpf('38.990994042505477')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [180, 160, 245, 213, 0.81538461538461537, mpf('39.193273094468424')]
+dominant left:  []
+Move forward
+--------------------
+dominant right:  [156, 153, 224, 194, 0.6029411764705882, mpf('31.087505323479981')]
+dominant left:  []
+go left please
+Exiting Application

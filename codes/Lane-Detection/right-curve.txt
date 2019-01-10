@@ -1,0 +1,1345 @@
+Initializing camera
+Capturing raw video stream
+--------------------
+separate_lines - returning none
+--------------------
+slope:  0 , right lanes: ( 174 , 181 ) - ( 229 , 209 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 220 , 215 )
+slope:  0 , right lanes: ( 180 , 193 ) - ( 234 , 224 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 234 , 212 )
+--------------------
+slope:  0 , right lanes: ( 165 , 179 ) - ( 230 , 223 )
+slope:  0 , right lanes: ( 163 , 187 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 241 , 221 )
+--------------------
+slope:  0 , right lanes: ( 174 , 181 ) - ( 225 , 207 )
+slope:  0 , right lanes: ( 162 , 182 ) - ( 219 , 214 )
+slope:  0 , right lanes: ( 180 , 193 ) - ( 230 , 222 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 181 , 184 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 162 , 180 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 166 , 180 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 231 , 223 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 211 , 209 )
+--------------------
+separate_lines - returning none
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 237 , 215 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 224 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 217 , 202 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 243 , 223 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 171 , 180 ) - ( 235 , 212 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 216 , 212 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 220 , 215 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 243 , 221 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 235 , 227 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 230 , 210 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 168 , 189 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 178 , 192 ) - ( 228 , 221 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 245 , 227 )
+slope:  0 , right lanes: ( 164 , 186 ) - ( 243 , 228 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 234 , 225 )
+--------------------
+slope:  0 , right lanes: ( 184 , 185 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 185 , 195 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 161 , 186 ) - ( 240 , 218 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 244 , 227 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 159 , 184 ) - ( 242 , 228 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 225 , 218 )
+slope:  0 , right lanes: ( 183 , 185 ) - ( 239 , 216 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 241 , 221 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 224 , 217 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 216 , 212 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 231 , 223 )
+--------------------
+slope:  0 , right lanes: ( 161 , 186 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 178 , 192 ) - ( 242 , 226 )
+--------------------
+slope:  0 , right lanes: ( 165 , 179 ) - ( 239 , 229 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 243 , 222 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 171 , 180 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 235 , 225 )
+--------------------
+slope:  0 , right lanes: ( 164 , 181 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 234 , 212 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 228 , 220 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 242 , 222 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 244 , 223 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 241 , 228 )
+--------------------
+slope:  0 , right lanes: ( 164 , 187 ) - ( 245 , 223 )
+slope:  0 , right lanes: ( 169 , 180 ) - ( 236 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 222 )
+slope:  0 , right lanes: ( 176 , 182 ) - ( 229 , 209 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 235 , 213 )
+--------------------
+slope:  0 , right lanes: ( 162 , 186 ) - ( 243 , 223 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 245 , 223 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 244 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 221 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 159 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 243 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 243 , 222 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 242 , 222 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 222 , 205 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 241 , 228 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 243 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 174 , 181 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 245 , 223 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 174 , 190 ) - ( 226 , 218 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 213 , 210 )
+--------------------
+slope:  0 , right lanes: ( 174 , 181 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 189 , 197 ) - ( 242 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 186 , 186 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 245 , 223 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 163 , 187 ) - ( 240 , 217 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 243 , 221 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 218 , 213 )
+--------------------
+slope:  0 , right lanes: ( 190 , 198 ) - ( 241 , 227 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 240 , 228 )
+slope:  0 , right lanes: ( 187 , 186 ) - ( 237 , 215 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 173 , 190 ) - ( 244 , 224 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 229 , 209 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 238 , 215 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 239 , 225 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 168 , 188 ) - ( 242 , 226 )
+slope:  0 , right lanes: ( 181 , 193 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 174 , 191 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 243 , 226 )
+slope:  0 , right lanes: ( 181 , 184 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 180 , 193 ) - ( 241 , 228 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 244 , 226 )
+--------------------
+slope:  0 , right lanes: ( 162 , 186 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 229 , 209 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 247 , 223 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 163 , 182 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 173 , 191 ) - ( 241 , 220 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 237 , 215 )
+--------------------
+slope:  0 , right lanes: ( 182 , 194 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 169 , 188 ) - ( 241 , 227 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 240 , 218 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 168 , 188 ) - ( 245 , 224 )
+--------------------
+slope:  0 , right lanes: ( 162 , 186 ) - ( 241 , 221 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 225 , 219 )
+--------------------
+slope:  0 , right lanes: ( 163 , 181 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 229 , 209 )
+slope:  0 , right lanes: ( 181 , 193 ) - ( 241 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 241 , 224 )
+slope:  0 , right lanes: ( 173 , 181 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 244 , 224 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 242 , 221 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 244 , 224 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 226 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 240 , 227 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 218 , 203 )
+slope:  0 , right lanes: ( 163 , 182 ) - ( 225 , 218 )
+--------------------
+slope:  0 , right lanes: ( 183 , 194 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 216 , 212 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 235 , 225 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 230 , 210 )
+--------------------
+slope:  0 , right lanes: ( 184 , 195 ) - ( 243 , 227 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 238 , 226 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 232 , 223 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 221 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 242 , 219 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 241 , 221 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 181 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 167 , 180 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 169 , 180 ) - ( 219 , 203 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 239 , 220 )
+slope:  0 , right lanes: ( 178 , 183 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 232 , 223 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 211 , 209 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 184 , 195 ) - ( 238 , 225 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 235 , 224 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 241 , 221 )
+--------------------
+slope:  0 , right lanes: ( 163 , 181 ) - ( 229 , 221 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 233 , 212 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 241 , 218 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 211 , 209 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 245 , 224 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 247 , 222 )
+slope:  0 , right lanes: ( 163 , 182 ) - ( 220 , 214 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 178 , 192 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 211 , 209 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 171 , 189 ) - ( 242 , 226 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 233 , 212 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 240 , 229 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 240 , 226 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 235 , 224 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 235 , 213 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 244 , 228 )
+slope:  0 , right lanes: ( 187 , 186 ) - ( 237 , 215 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 183 , 184 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 176 , 182 ) - ( 236 , 227 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 242 , 228 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 186 , 196 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 214 , 211 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 163 , 181 ) - ( 242 , 228 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 236 , 213 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 221 , 215 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 241 , 227 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 178 , 192 ) - ( 229 , 220 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 241 , 221 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 240 , 219 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 219 , 203 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 243 , 220 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 234 , 224 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 225 , 206 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 174 , 181 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 164 , 181 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 169 , 189 ) - ( 241 , 220 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 240 , 227 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 241 , 229 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 243 , 220 )
+--------------------
+separate_lines - returning none
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 241 , 218 )
+--------------------
+slope:  0 , right lanes: ( 183 , 184 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 169 , 188 ) - ( 220 , 215 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 186 , 196 ) - ( 243 , 227 )
+--------------------
+slope:  0 , right lanes: ( 165 , 179 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 239 , 217 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 242 , 222 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 165 , 181 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 210 , 208 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 242 , 222 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 166 , 180 ) - ( 240 , 228 )
+--------------------
+slope:  0 , right lanes: ( 178 , 192 ) - ( 234 , 223 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 239 , 218 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 237 , 214 )
+--------------------
+slope:  0 , right lanes: ( 183 , 194 ) - ( 244 , 228 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 241 , 220 )
+--------------------
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 165 , 181 ) - ( 237 , 226 )
+slope:  0 , right lanes: ( 168 , 188 ) - ( 242 , 222 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 244 , 223 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 245 , 224 )
+--------------------
+slope:  0 , right lanes: ( 164 , 186 ) - ( 214 , 210 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 220 , 214 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 159 , 185 ) - ( 245 , 222 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 229 , 209 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 225 , 218 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 226 , 219 )
+--------------------
+slope:  0 , right lanes: ( 165 , 179 ) - ( 232 , 224 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 229 , 220 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 186 , 186 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 230 , 221 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+--------------------
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 173 , 190 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 245 , 223 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 171 , 189 ) - ( 243 , 227 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 242 , 228 )
+--------------------
+slope:  0 , right lanes: ( 163 , 186 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 172 , 189 ) - ( 239 , 220 )
+--------------------
+slope:  0 , right lanes: ( 169 , 188 ) - ( 243 , 227 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 240 , 219 )
+--------------------
+slope:  0 , right lanes: ( 179 , 192 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 230 , 222 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 242 , 222 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 166 , 188 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 179 , 192 ) - ( 231 , 221 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 233 , 223 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 224 , 217 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 240 , 229 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 185 , 195 ) - ( 244 , 228 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 216 , 211 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 227 , 219 )
+--------------------
+slope:  0 , right lanes: ( 181 , 184 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 167 , 188 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 164 , 186 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 247 , 222 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 241 , 224 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 238 , 224 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 232 , 223 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 240 , 228 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 183 , 194 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 243 , 223 )
+slope:  0 , right lanes: ( 191 , 199 ) - ( 245 , 222 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+--------------------
+slope:  0 , right lanes: ( 171 , 189 ) - ( 225 , 218 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 165 , 181 ) - ( 235 , 224 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 244 , 222 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 228 , 220 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 241 , 225 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 238 , 226 )
+slope:  0 , right lanes: ( 187 , 186 ) - ( 239 , 216 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 237 , 226 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+--------------------
+slope:  0 , right lanes: ( 166 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 235 , 213 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 165 , 181 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 228 , 220 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 241 , 226 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 246 , 224 )
+slope:  0 , right lanes: ( 172 , 181 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 214 , 210 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 235 , 225 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 241 , 225 )
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 185 , 195 ) - ( 240 , 227 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 231 , 223 )
+--------------------
+slope:  0 , right lanes: ( 183 , 184 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 230 , 210 )
+slope:  0 , right lanes: ( 172 , 189 ) - ( 228 , 220 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 241 , 226 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 245 , 227 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 175 , 181 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 174 , 190 ) - ( 226 , 218 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 241 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 165 , 187 ) - ( 243 , 223 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 220 , 203 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 241 , 229 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 241 , 218 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 224 , 217 )
+--------------------
+slope:  0 , right lanes: ( 191 , 199 ) - ( 244 , 227 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 245 , 221 )
+slope:  0 , right lanes: ( 186 , 197 ) - ( 241 , 227 )
+--------------------
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 165 , 181 ) - ( 240 , 228 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 240 , 218 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 228 , 220 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 239 , 227 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 185 , 195 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 176 , 191 ) - ( 241 , 227 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 167 , 180 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 240 , 221 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 190 , 198 ) - ( 243 , 228 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 237 , 214 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 176 , 191 ) - ( 240 , 226 )
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 244 , 228 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 232 , 211 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 234 , 224 )
+--------------------
+slope:  0 , right lanes: ( 163 , 179 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 230 , 210 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 179 , 183 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 241 , 229 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 183 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 226 )
+--------------------
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+--------------------
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 184 , 195 ) - ( 240 , 226 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 234 , 225 )
+slope:  0 , right lanes: ( 173 , 180 ) - ( 224 , 206 )
+--------------------
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+--------------------
+separate_lines - returning none
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 245 , 222 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 229 , 221 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 236 , 227 )
+--------------------
+slope:  0 , right lanes: ( 167 , 188 ) - ( 245 , 224 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 244 , 221 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 163 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 228 , 220 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 184 , 195 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 238 , 222 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 219 , 203 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 241 , 226 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 246 , 223 )
+slope:  0 , right lanes: ( 187 , 196 ) - ( 241 , 228 )
+--------------------
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 220 , 214 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 245 , 222 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 232 , 224 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 219 , 214 )
+slope:  0 , right lanes: ( 163 , 182 ) - ( 240 , 228 )
+--------------------
+slope:  0 , right lanes: ( 172 , 180 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 240 , 228 )
+--------------------
+slope:  0 , right lanes: ( 175 , 181 ) - ( 226 , 208 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 240 , 223 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 233 , 225 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 229 , 221 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 241 , 224 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 189 , 187 ) - ( 239 , 216 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 246 , 224 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 178 , 183 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 235 , 227 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 238 , 226 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 243 , 223 )
+--------------------
+slope:  0 , right lanes: ( 163 , 184 ) - ( 242 , 226 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 243 , 221 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 185 , 195 ) - ( 244 , 227 )
+slope:  0 , right lanes: ( 175 , 181 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 184 , 195 ) - ( 241 , 228 )
+--------------------
+slope:  0 , right lanes: ( 172 , 189 ) - ( 243 , 227 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 247 , 223 )
+--------------------
+slope:  0 , right lanes: ( 163 , 184 ) - ( 244 , 227 )
+slope:  0 , right lanes: ( 191 , 188 ) - ( 241 , 218 )
+slope:  0 , right lanes: ( 183 , 194 ) - ( 241 , 227 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 244 , 227 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 169 , 188 ) - ( 232 , 223 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 240 , 221 )
+slope:  0 , right lanes: ( 176 , 181 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 233 , 225 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 221 , 215 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 242 , 219 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 159 , 185 ) - ( 242 , 219 )
+--------------------
+slope:  0 , right lanes: ( 167 , 187 ) - ( 244 , 224 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 233 , 225 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 220 , 203 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 229 , 221 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 240 , 228 )
+--------------------
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 189 , 197 ) - ( 244 , 223 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 222 , 205 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 246 , 227 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 171 , 189 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 163 , 187 ) - ( 245 , 222 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 220 , 203 )
+--------------------
+slope:  0 , right lanes: ( 171 , 189 ) - ( 244 , 223 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+--------------------
+slope:  0 , right lanes: ( 179 , 183 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 163 , 186 ) - ( 241 , 218 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 244 , 227 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 239 , 225 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 239 , 216 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 176 , 191 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 240 , 219 )
+--------------------
+slope:  0 , right lanes: ( 183 , 194 ) - ( 241 , 226 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 171 , 189 ) - ( 238 , 226 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 245 , 226 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 224 , 217 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 241 , 218 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 225 , 206 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 165 , 179 ) - ( 239 , 229 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 241 , 228 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 243 , 220 )
+--------------------
+slope:  0 , right lanes: ( 164 , 186 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 242 , 228 )
+--------------------
+slope:  0 , right lanes: ( 162 , 181 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 192 , 198 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 217 , 212 )
+--------------------
+slope:  0 , right lanes: ( 183 , 194 ) - ( 241 , 227 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 244 , 224 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 246 , 222 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 236 , 223 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 240 , 219 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 235 , 224 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 218 , 213 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 165 , 179 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 245 , 227 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 172 , 181 ) - ( 239 , 228 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 233 , 212 )
+slope:  0 , right lanes: ( 176 , 182 ) - ( 236 , 227 )
+--------------------
+slope:  0 , right lanes: ( 178 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 162 , 181 ) - ( 237 , 224 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 223 , 216 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 237 , 215 )
+slope:  0 , right lanes: ( 163 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 234 , 225 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 241 , 225 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 247 , 223 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 235 , 225 )
+--------------------
+slope:  0 , right lanes: ( 161 , 184 ) - ( 241 , 223 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 233 , 225 )
+slope:  0 , right lanes: ( 176 , 182 ) - ( 241 , 218 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 242 , 222 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 164 , 187 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 240 , 229 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 245 , 224 )
+--------------------
+slope:  0 , right lanes: ( 174 , 190 ) - ( 240 , 226 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 174 , 190 ) - ( 244 , 224 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 233 , 211 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 237 , 226 )
+--------------------
+slope:  0 , right lanes: ( 178 , 192 ) - ( 241 , 226 )
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 164 , 187 ) - ( 243 , 220 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 179 , 192 ) - ( 244 , 228 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 240 , 227 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 165 , 181 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 183 , 184 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 240 , 218 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 237 , 227 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 237 , 214 )
+slope:  0 , right lanes: ( 163 , 180 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 243 , 223 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 236 , 226 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 232 , 223 )
+slope:  0 , right lanes: ( 172 , 180 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 186 ) - ( 244 , 221 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 213 , 210 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 185 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 163 , 187 ) - ( 242 , 219 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 164 , 181 ) - ( 233 , 224 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 234 , 225 )
+--------------------
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+slope:  0 , right lanes: ( 164 , 180 ) - ( 234 , 224 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 163 , 179 ) - ( 231 , 222 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 183 , 194 ) - ( 245 , 228 )
+--------------------
+slope:  0 , right lanes: ( 164 , 180 ) - ( 241 , 228 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 247 , 227 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 240 , 229 )
+--------------------
+slope:  0 , right lanes: ( 187 , 186 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 217 , 212 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+--------------------
+slope:  0 , right lanes: ( 160 , 184 ) - ( 244 , 223 )
+slope:  0 , right lanes: ( 176 , 182 ) - ( 232 , 211 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 183 , 194 ) - ( 243 , 227 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 213 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 241 , 223 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 163 , 184 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 221 , 215 )
+--------------------
+slope:  0 , right lanes: ( 184 , 185 ) - ( 235 , 213 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 163 , 181 ) - ( 231 , 222 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 218 , 202 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 247 , 223 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 233 , 224 )
+slope:  0 , right lanes: ( 166 , 179 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 174 , 190 ) - ( 227 , 219 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 160 , 185 ) - ( 246 , 222 )
+slope:  0 , right lanes: ( 168 , 178 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 239 , 228 )
+slope:  0 , right lanes: ( 167 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 177 , 191 ) - ( 238 , 225 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 237 , 225 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 231 , 210 )
+--------------------
+slope:  0 , right lanes: ( 176 , 191 ) - ( 242 , 226 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 170 , 180 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 185 , 185 ) - ( 237 , 214 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 163 , 186 ) - ( 244 , 221 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 165 , 180 ) - ( 232 , 224 )
+--------------------
+slope:  0 , right lanes: ( 165 , 180 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 229 , 209 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 214 , 210 )
+slope:  0 , right lanes: ( 177 , 182 ) - ( 234 , 212 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 240 , 226 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 176 , 191 ) - ( 239 , 226 )
+slope:  0 , right lanes: ( 161 , 184 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 170 , 179 ) - ( 223 , 205 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 236 , 214 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 221 , 204 )
+--------------------
+slope:  0 , right lanes: ( 167 , 178 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 212 , 210 )
+slope:  0 , right lanes: ( 171 , 180 ) - ( 221 , 204 )
+--------------------
+slope:  0 , right lanes: ( 179 , 192 ) - ( 240 , 225 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 161 , 185 ) - ( 247 , 222 )
+--------------------
+slope:  0 , right lanes: ( 162 , 179 ) - ( 238 , 227 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 210 , 208 )
+--------------------
+slope:  0 , right lanes: ( 168 , 179 ) - ( 237 , 227 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 163 , 186 ) - ( 242 , 220 )
+--------------------
+slope:  0 , right lanes: ( 162 , 184 ) - ( 227 , 219 )
+slope:  0 , right lanes: ( 180 , 183 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 238 , 227 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 236 , 214 )
+slope:  0 , right lanes: ( 176 , 191 ) - ( 228 , 220 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 232 , 225 )
+--------------------
+slope:  0 , right lanes: ( 177 , 191 ) - ( 238 , 224 )
+slope:  0 , right lanes: ( 163 , 186 ) - ( 243 , 220 )
+slope:  0 , right lanes: ( 167 , 178 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 178 , 182 ) - ( 231 , 210 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 235 , 226 )
+--------------------
+slope:  0 , right lanes: ( 163 , 186 ) - ( 217 , 212 )
+--------------------
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 187 , 196 ) - ( 242 , 227 )
+slope:  0 , right lanes: ( 162 , 184 ) - ( 240 , 227 )
+--------------------
+slope:  0 , right lanes: ( 182 , 184 ) - ( 238 , 215 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+slope:  0 , right lanes: ( 163 , 186 ) - ( 247 , 222 )
+slope:  0 , right lanes: ( 160 , 184 ) - ( 242 , 219 )
+--------------------
+slope:  0 , right lanes: ( 170 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 168 , 179 ) - ( 238 , 228 )
+--------------------
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+slope:  0 , right lanes: ( 170 , 179 ) - ( 221 , 204 )
+slope:  0 , right lanes: ( 164 , 179 ) - ( 236 , 226 )
+--------------------
+slope:  0 , right lanes: ( 181 , 193 ) - ( 238 , 225 )
+slope:  0 , right lanes: ( 169 , 179 ) - ( 225 , 206 )
+slope:  0 , right lanes: ( 162 , 185 ) - ( 215 , 211 )
+Exiting Application
